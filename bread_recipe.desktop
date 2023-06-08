@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bread Recipe
+Comment=Calculate bread ingredient measurements
+Exec=/home/ambro/Documents/bread_program/run_breadv3.sh
+Icon=/home/ambro/Documents/bread_program/4241664.png
+Terminal=false
+Type=Application
+Categories=GTK;Utility;
+
